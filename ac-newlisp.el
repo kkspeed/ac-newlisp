@@ -2,7 +2,7 @@
 
 ;; Copyright (C) 2014
 
-;; Author:  <muyuan@muyuan-lab>
+;; Author:  leilmyxwz@gmail.com
 ;; Keywords: lisp, languages, extensions
 
 ;; This program is free software; you can redistribute it and/or modify
